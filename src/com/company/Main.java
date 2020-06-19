@@ -8,5 +8,6 @@ public class Main {
         System.out.println("2.Почистити зуби");
         System.out.println("3.Спробувати захопити владу у всесвіті");
         System.out.println("4.Повторити завтра, починаючи з пункту №1");
+        System.out.println("Vasyl Hlovliuk");
     }
 }
